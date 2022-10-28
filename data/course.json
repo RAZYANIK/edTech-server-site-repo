@@ -1,0 +1,145 @@
+[
+    {
+        "course_id": "635948fbfced04512136f18fd91221",
+        "courseName": "Data Science Professional Certificate",
+        "displayPicture": "https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/data-science.png",
+        "coverPicture": "https://www.bioenergyconsult.com/wp-content/uploads/2020/08/importance-of-data-science.jpg",
+        "price": "1800 BDT",
+        "duration": "6 Months",
+        "courseInstructor": "Peter W",
+        "description": "Kickstart your career in data science & ML. Build data science skills, learn Python & SQL, analyze & visualize data, build machine learning models. No degree or prior experience required.",
+        "preRequisites": [
+            "Basic Python Fundamentals"
+        ],
+        "courseContent": [
+            "Data Science",
+            "Deep Learning",
+            "Machine Learning",
+            "Rstudio",
+            "Big Data",
+            "Data Mining",
+            "Data Analysis",
+            "SVM Algorithm",
+            "Python Programming"
+        ]
+    },
+    {
+        "course_id": "635a34513f0669e52d7850ab7d176",
+        "courseName": "Database Engineer",
+        "displayPicture": "https://insights.dice.com/wp-content/uploads/2019/07/shutterstock_664638928.jpg",
+        "coverPicture": "https://techgenix.com/tgwordpress/wp-content/uploads/2018/09/dba_admin.jpg",
+        "price": "2000 BDT",
+        "duration": "4 Months",
+        "courseInstructor": "Kesha Washington",
+        "description": "Launch your career as a Database Engineer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or experience required to get started.",
+        "preRequisites": [
+            "Basic SQL"
+        ],
+        "courseContent": [
+            "SQL and Python syntax",
+            "database management",
+            "database administration",
+            "MySQL",
+            "Tabular records",
+            "Database (DBMS)",
+            "Web Development",
+            "Data Management"
+        ]
+    },
+    {
+        "course_id": "634135a11113f00a22ff1c5c746542",
+        "courseName": "Data Analytics",
+        "displayPicture": "https://www.jasminsoftware.pt/wp-content/uploads/2019/04/big-data-analytics-nas-pme.jpg",
+        "coverPicture": "https://www.soledu.net/th/app/uploads/2021/02/5031658.png",
+        "price": "5000 BDT",
+        "duration": "6 Months",
+        "courseInstructor": "Hughes Bruce",
+        "description": "This is your path to a career in data analytics. In this program, you’ll learn in-demand skills that will have you job-ready in less than 6 months. No degree or experience required.Data analytics is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making.",
+        "preRequisites": [
+            "Basic Statics"
+        ],
+        "courseContent": [
+            "Spreadsheet",
+            "Data Cleansing",
+            "Data Analysis",
+            "Data Visualization (DataViz)",
+            "Deep Learning",
+            "SQL",
+            "Problem Solving",
+            "Metadata",
+            "Sample Size Determination"
+        ]
+    },
+    {
+        "course_id": "635a13asa11dw2f01346d8f13e67ffe5",
+        "courseName": "Cybersecurity Analyst",
+        "displayPicture": "https://insights.dice.com/wp-content/uploads/2021/04/shutterstock_1319513888.jpg",
+        "coverPicture": "https://www.neit.edu/wp-content/uploads/2022/01/Cyber-Security-Analyst-1.jpg",
+        "price": "5000 BDT",
+        "duration": "7 Months",
+        "courseInstructor": "Lindsey Williams",
+        "description": "Get started in the in-demand field of cybersecurity with a Professional Certificate from IBM. Learn the core principles of compliance and threat intelligence, including network security, incident response, and forensics, and gain experience with key cybersecurity tools.",
+        "preRequisites": [
+            "Basic Security protocols"
+        ],
+        "courseContent": [
+            "Information security analyst",
+            "IT security analyst",
+            "security analyst",
+            "Junior cybersecurity analyst",
+            "Information Security (INFOSEC)",
+            "Malware",
+            "Cybersecurity",
+            "Cyber Attacks",
+            "Network Security"
+        ]
+    },
+    {
+        "course_id": "63asda115a13f0b2ac308bc16f87d8",
+        "courseName": "Project Management",
+        "displayPicture": "https://proxsisgroup.com/wp-content/uploads/2016/08/training-project-management-1024x1024.jpg",
+        "coverPicture": "https://www.cascade.app/hubfs/project-management-overview.jpg",
+        "price": "6000 BDT",
+        "duration": "6 Months",
+        "courseInstructor": "Loren Kirby",
+        "description": "Start your path to a career in project management. In this program, you’ll learn in-demand skills that will have you job-ready in less than six months. No degree or experience is required.",
+        "preRequisites": [
+            "Prepare for a new career in the high-growth field of project management, no experience or degree required"
+        ],
+        "courseContent": [
+            "Organizational Culture",
+            "Career Development",
+            "Strategic Thinking",
+            "Change Management",
+            "Project Management",
+            "Stakeholder Management",
+            "Business Writing",
+            "Project Charter",
+            "Risk Management",
+            "Procurement"
+        ]
+    },
+    {
+        "course_id": "635a13f0c655438e552e63e1",
+        "courseName": "Digital Marketing & E-commerce",
+        "displayPicture": "https://site.paytabs.com/wp-content/uploads/2017/10/shutterstock_394814632.jpg",
+        "coverPicture": "https://onlinejain.com/sites/default/files/2021-12/Digital%20Marketing%20and%20E-Commerce%20Fundamentals.jpg",
+        "price": "5000 BDT",
+        "duration": "6 Months",
+        "courseInstructor": "John Haris",
+        "description": "This is your path to a career in digital marketing. In this program, you’ll learn in-demand skills that can have you job-ready in less than 6 months. Get started in the in-demand fields of digital marketing and e-commerce with a Professional Certificate from Google. Learn to manage digital marketing campaigns, attract and engage customers, and measure performance through analytics.",
+        "preRequisites": [
+            "No degree or experience required"
+        ],
+        "courseContent": [
+            "Marketing",
+            "E-Commerce",
+            "display advertising",
+            "Email Marketing",
+            "Search Engine Optimization (SEO)",
+            "Customer loyalty",
+            "Marketing Analytics",
+            "Customer Awareness"
+        ]
+    }
+]

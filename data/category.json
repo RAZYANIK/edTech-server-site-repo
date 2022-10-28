@@ -1,0 +1,26 @@
+[
+    {
+        "category_id": "01",
+        "category": "Data Science Professional Certificate"
+    },
+    {
+        "category_id": "02",
+        "category": "Database Engineer"
+    },
+    {
+        "category_id": "03",
+        "category": "Data Analytics"
+    },
+    {
+        "category_id": "04",
+        "category": "Cybersecurity Analyst"
+    },
+    {
+        "category_id": "05",
+        "category": "Project Management"
+    },
+    {
+        "category_id": "06",
+        "category": "Digital Marketing & E-commerce"
+    }
+]
