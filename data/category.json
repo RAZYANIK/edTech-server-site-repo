@@ -14,5 +14,13 @@
     {
         "category_id": "04",
         "category": "Cybersecurity Analyst"
+    },
+    {
+        "category_id": "05",
+        "category": "Project Management"
+    },
+    {
+        "category_id": "06",
+        "category": "Digital Marketing & E-commerce"
     }
 ]
